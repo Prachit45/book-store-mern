@@ -1,7 +1,4 @@
-Perfect 👍
-Below is a **professional, recruiter-friendly README.md** you can **directly copy–paste** into your GitHub repo **`book-store-mern`**.
 
----
 
 # 📚 Book Store – MERN Stack Application
 
@@ -14,9 +11,6 @@ The project is built with a clean frontend UI and a scalable backend API.
 
 The **Book Store MERN Application** is a complete end-to-end web app developed to demonstrate real-world full-stack development skills.
 It includes user authentication, RESTful APIs, database integration, and a responsive frontend.
-
-This project is ideal for showcasing **industry-level MERN stack skills** to recruiters.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -71,24 +65,6 @@ This project is ideal for showcasing **industry-level MERN stack skills** to rec
 * Responsive design (mobile & desktop)
 * Clean and modern UI
 * Smooth navigation
-
----
-
-## 📸 Screenshots
-
-> 📌 *Add screenshots after deployment*
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/login.png
-/screenshots/cart.png
-```
-
-You can upload screenshots and update this section later.
-
----
 
 ## ⚙️ Project Setup (Run Locally)
 
@@ -203,12 +179,3 @@ book-store-mern/
 * Book search & filters
 * Cloud image storage
 
----
-
-🔥 **If you want next**:
-
-* Resume project points
-* Live deployment (Frontend + Backend)
-* README with badges & screenshots
-
-Just tell me 👊
